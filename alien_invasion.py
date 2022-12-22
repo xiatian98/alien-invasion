@@ -338,6 +338,7 @@ class AlienInvasion:
             self.play_button.draw_button()
         pygame.display.flip()
 
+
 # 只有在直接运行该文件时，下面的语句才会执行
 if __name__ == '__main__':
     """创建游戏实例并运行游戏"""
